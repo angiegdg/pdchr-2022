@@ -138,10 +138,10 @@ p,
 
 .btn {
     border-radius: 3px;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     text-transform: uppercase;
-    padding: 7px 20px;
+    padding: 7px 10px;
     border-width: 0;
     /*transition:all .5s ease;*/
 }
